@@ -1,0 +1,98 @@
+{
+    "business": {
+        "id": "brz_kiss",
+        "name": "Breeze",
+        "default_lang": "el",
+        "translations": [
+            "el",
+            "en"
+        ],
+        "logo_url": "",
+        "hero_url": "",
+        "menu_url": "",
+        "address": {
+            "address": "Paraliaki",
+            "address2": "",
+            "city": "Kissamos",
+            "country": "GR",
+            "zip": "73400",
+            "lat": 35.49810729705687,
+            "lon": 23.655526219578526
+        }
+    },
+    "categories": [
+        {
+            "id": "0",
+            "order": 1,
+            "translations": {
+                "de": {
+                    "name": "Kaffee",
+                    "descr": ""
+                },
+                "el": {
+                    "name": "Καφές",
+                    "descr": ""
+                },
+                "en": {
+                    "name": "Coffee",
+                    "descr": ""
+                },
+                "es": {
+                    "name": "Café",
+                    "descr": ""
+                },
+                "fr": {
+                    "name": "Café",
+                    "descr": ""
+                },
+                "it": {
+                    "name": "Caffè",
+                    "descr": ""
+                }
+            },
+            "images": {
+                "sm": "",
+                "rg": "https://breeze.e-pro.gr/wp-content/uploads/2020/07/but-first-coffee.png",
+                "xl": ""
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "61",
+            "cat_id": "7",
+            "translations": {
+                "de": {
+                    "name": "Herzhafte Pfannkuchen serviert mit Spiegelei",
+                    "descr": ""
+                },
+                "el": {
+                    "name": "Αλμυρά pancakes με τηγανητό αυγό",
+                    "descr": ""
+                },
+                "en": {
+                    "name": "Savory pancakes served with fried egg",
+                    "descr": ""
+                }
+            },
+            "images": {
+                "sm": "",
+                "rg": "",
+                "xl": ""
+            },
+            "prices": {
+                "sm": 0,
+                "rg": 750,
+                "xl": 0
+            },
+            "tax_vat": 0.13,
+            "tax_rec": 0,
+            "tags": null,
+            "sides": null,
+            "delivery": 7,
+            "diet": 0,
+            "dangers": 0,
+            "sku": ""
+        }
+    ]
+}
