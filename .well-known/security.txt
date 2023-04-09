@@ -1,0 +1,5 @@
+# If you would like to report a security issue
+# you may report it to me on hackemy.com.
+Contact: security@hackemy.com
+Encryption: 
+Acknowledgments: 
