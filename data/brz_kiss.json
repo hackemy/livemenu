@@ -5,7 +5,8 @@
         "default_lang": "el",
         "translations": [
             "el",
-            "en"
+            "en",
+            "de"
         ],
         "logo_url": "https://hackemy.github.io/livemenu/data/brz_kiss.jpg",
         "hero_url": "https://cdn.e-food.gr/cdn-cgi/image/f=auto/shop/4297687/cover?t=1647428522&platform=web",
@@ -49,6 +50,11 @@
                     "name": "Caffè",
                     "descr": ""
                 }
+            },
+            "offers": {
+                "en": { "offer": "Buy 2 get 1 free", "cond": "On Wednesdays" },
+                "el": { "offer": "Παρέ 2 και ενα δώρο", "cond": "Μονο Τετάρτες"},
+                "de": { "offer": "2 kaufen, 1 gratis", "cond": "Mittwochs"}
             },
             "images": {
                 "sm": "",
