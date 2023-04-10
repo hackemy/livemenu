@@ -1,23 +1,31 @@
 {
     "business": {
-        "id": "brz_kiss",
-        "name": "Breeze",
+        "id": "breeze_kissamou",
+        "name": "Breeze Day \u0026 Night Cafe Bar",
         "default_lang": "el",
         "translations": [
-            "el",
-            "en"
+          "en",
+          "el",
+          "de"
         ],
-        "logo_url": "",
-        "hero_url": "",
-        "menu_url": "",
+        "logo_url": "https://hackemy.github.io/livemenu/data/breeze_kissamou_logo.jpg",
+        "hero_url": "https://hackemy.github.io/livemenu/data/breeze_kissamou_hero.png",
+        "menu_url": "https://breeze.e-pro.gr/",
         "address": {
-            "address": "Paraliaki",
-            "address2": "",
-            "city": "Kissamos",
-            "country": "GR",
-            "zip": "73400",
-            "lat": 35.49810729705687,
-            "lon": 23.655526219578526
+          "street": "Παραλία Τελωνείου",
+          "street2": "",
+          "city": "Κίσσαμος",
+          "region": "Χανιά",
+          "country": "GR",
+          "zip": "73400",
+          "lat": 35.4981072970569,
+          "lon": 23.6555262195785
+        },
+        "social": {
+          "facebook": "https://www.facebook.com/BreezeKissamos/",
+          "twitter": "",
+          "instagram": "https://www.instagram.com/breeze_cafebar/",
+          "tripadvisor": "https://www.tripadvisor.com.gr/UserReviewEdit-g1028265-d21125084-Breeze_Cafe_Bar-Kissamos_Chania_Prefecture_Crete.html"
         }
     },
     "categories": [
